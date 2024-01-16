@@ -1,10 +1,11 @@
 import './App.css';
+import UseRefExample1 from './components/UseRefExample1/UseRefExample1';
 
 
 function App() {
   return (
     <div className="App">
-      <h1>Hooks</h1>
+      <UseRefExample1 />
     </div>
   );
 }
